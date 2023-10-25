@@ -1,10 +1,6 @@
-Joint Learning of Feature and Topology for Multi-view Graph Convolutional Network 
+# Joint Learning of Feature and Topology for Multi-view Graph Convolutional Network 
 
-(JFGCN in Pytorch)
-
-##  Usage
-
-```python train.py```
+**Yuhong Chen,** Zhihao Wu, Zhaoliang Chen, Mianxiong Dong and Shiping Wang. Joint Learning of Feature and Topology for Multi-view Graph Convolutional Network. ***Neural Networks\***.
 
 ## Method framework
 
@@ -16,4 +12,21 @@ We design a multi-view autoencoder to approximate matrix decomposition, which in
 
 * Python 3.9
 * Pytorch 1.12.1
+
+##  Usage
+
+```python train.py```
+
+## Reference
+
+```
+@article{chen2023joint,
+  title={Joint learning of feature and topology for multi-view graph convolutional network},
+  author={Chen, Yuhong and Wu, Zhihao and Chen, Zhaoliang and Dong, Mianxiong and Wang, Shiping},
+  journal={Neural Networks},
+  volume={168},
+  pages={161--170},
+  year={2023}
+}
+```
 
